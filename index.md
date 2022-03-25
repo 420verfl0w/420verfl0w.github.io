@@ -1,7 +1,7 @@
 ## INDEX
 
 - [Write UP CTF (TODO)](./write_up/index.md)
-- [project](./indexes/index.md)
+- [project](./project/index.md)
 - [CheatSheet](./cheat_sheet/index.md)
 
 #### Contributor
