@@ -4,7 +4,7 @@
 - [project](./project/index.md)
 - [CheatSheet](./cheat_sheet/index.md)
 
-#### Contributor
+### Contributor
 
 [Pixailz](https://github.com/Pixailz)
 <br>

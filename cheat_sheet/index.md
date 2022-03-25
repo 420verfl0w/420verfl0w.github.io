@@ -1,5 +1,5 @@
-## FoutoireAssembly
+## Assembly
 
-repo to stock "things" about assembly
+note and tips about assembly
 
-link [here](https://github.com/420verfl0w/FoutoireAssembly)
+link [here](https://github.com/420verfl0w/cheat_assembly)
