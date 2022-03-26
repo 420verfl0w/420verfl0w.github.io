@@ -3,6 +3,7 @@
 - [Write UP CTF (TODO)](./write_up/index.md)
 - [project](./project/index.md)
 - [CheatSheet](./cheat_sheet/index.md)
+- [Learn Assembly](./learn_assembly/index.md)
 
 ### Contributor
 
